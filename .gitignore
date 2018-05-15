@@ -25,6 +25,7 @@ ExportedObj/
 *.svd
 *.pdb
 *.idea
+JetBrains.Rider.Unity.Editor.Plugin.Repacked
 
 # Unity3D generated meta files
 
