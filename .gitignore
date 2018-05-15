@@ -2,6 +2,7 @@
 Library/
 Temp/
 Packages/
+Plugins/
 # Visual Studio 2015 cache directory
  
 /.vs/
@@ -25,7 +26,7 @@ ExportedObj/
 *.svd
 *.pdb
 *.idea
-JetBrains.Rider.Unity.Editor.Plugin.Repacked
+
 
 # Unity3D generated meta files
 
